@@ -1,6 +1,6 @@
-# Welcome to your CDK TypeScript project!
+## What is this
 
-This is a blank project for TypeScript development with CDK.
+This is my sample (or test) project for AWS CDK espcially about aws-cdk/aws-budgets.
 
 The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
