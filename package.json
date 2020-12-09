@@ -8,6 +8,8 @@
     "build": "tsc",
     "watch": "tsc -w",
     "test": "jest",
+    "lint": "npx eslint . --ext ts",
+    "lint:fix": "npx eslint . --ext ts --fix",
     "cdk": "cdk"
   },
   "devDependencies": {
