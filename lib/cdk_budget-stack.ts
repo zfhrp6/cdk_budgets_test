@@ -21,7 +21,7 @@ export class CdkBudgetStack extends cdk.Stack {
           TagKeyValue: [
             // user defined tag setting is placed in the format `user:<key>$<value>`
             // guess from https://github.com/hashicorp/terraform-provider-aws/issues/5890
-            'user:userdefinedTagKey$tagValue',
+            'user:userDefinedTagKey$tagValue',
           ],
         },
       },
